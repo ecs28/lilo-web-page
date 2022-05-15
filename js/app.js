@@ -1,6 +1,6 @@
 // API base URL
 const apiBaseURL = "https://cat-fact.herokuapp.com/"
-
+ 
 /**
  * getFacts get facts from a public api
  *
